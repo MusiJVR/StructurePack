@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mjstructure:mangrove_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 8983452353,
+    "spacing": 40,
+    "separation": 16
+  }
+}

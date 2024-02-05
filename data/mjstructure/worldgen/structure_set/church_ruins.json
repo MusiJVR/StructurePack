@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mjstructure:church_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 8983452348,
+    "spacing": 40,
+    "separation": 16
+  }
+}

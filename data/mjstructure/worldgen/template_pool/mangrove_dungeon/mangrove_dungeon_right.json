@@ -1,0 +1,15 @@
+{
+  "name": "mjstructure:mangrove_dungeon_right",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mjstructure:mangrove_dungeon/mangrove_dungeon_right",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

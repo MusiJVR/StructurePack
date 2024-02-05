@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mjstructure:pit_trap",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 8983452351,
+    "spacing": 40,
+    "separation": 16
+  }
+}

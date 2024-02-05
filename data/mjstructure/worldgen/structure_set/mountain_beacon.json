@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mjstructure:mountain_beacon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 8983452355,
+    "spacing": 40,
+    "separation": 16
+  }
+}

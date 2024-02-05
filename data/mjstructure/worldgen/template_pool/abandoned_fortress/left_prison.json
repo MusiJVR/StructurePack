@@ -1,0 +1,15 @@
+{
+  "name": "mjstructure:left_prison",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mjstructure:abandoned_fortress/left_prison",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

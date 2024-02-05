@@ -1,0 +1,15 @@
+{
+  "name": "mjstructure:prison_corridor",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mjstructure:abandoned_fortress/prison_corridor",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

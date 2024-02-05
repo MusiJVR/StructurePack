@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mjstructure:abandoned_fortress",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 8983452356,
+    "spacing": 40,
+    "separation": 16
+  }
+}
